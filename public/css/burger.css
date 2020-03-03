@@ -1,0 +1,38 @@
+/* h1{
+    text-align: center;
+    padding: 20px 0;
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 28px;
+}
+body{
+    background-color: bisque;
+}
+.eatburgers {
+    float: left;
+    width: 33.3%
+}
+.burgersthere {
+    float:right;
+    width:33.3%;
+}
+.label {
+    font-weight: bold;
+  }
+  .create-form {
+    padding: 5px;
+    margin: 5px;
+    background-color: Azure;
+  }
+  
+  .form-group {
+    margin-bottom: 5px;
+  }
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  } */
+  html{
+    background-image: url(https://media1.s-nbcnews.com/j/newscms/2019_21/2870431/190524-classic-american-cheeseburger-ew-207p_d9270c5c545b30ea094084c7f2342eb4.fit-2000w.jpg);
+  }
